@@ -41,7 +41,7 @@ public class HelloApplication extends Application {
 
 
         Scene scene = new Scene(raiz, 320, 240);
-        stage.setTitle("Hello!");
+        stage.setTitle("Hello! JavaFX");
         stage.setScene(scene);
         stage.show();
     }
